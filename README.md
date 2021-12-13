@@ -11,6 +11,11 @@
 ```
 npx create-next-app . --example https://github.com/lazarok09/next-example
 ```
+## Install the Node 🌵
+```bash
+npm i
+```
+
 ### Development server 📦
 
 ```bash
